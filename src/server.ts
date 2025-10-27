@@ -33,7 +33,7 @@ server.registerTool(
     "GetPortfolio",
     {
         title: "Trading212 Portfolio Tool",
-        description: "Fetches the user's portfolio from Trading212.",
+        description: "Fetches the user's portfolio from Trading212. This tool is read-only and does not perform any trades.",
         outputSchema: {
             output: z.array(
                 z.object({
