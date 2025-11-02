@@ -110,6 +110,15 @@ For more information, please refer to <https://unlicense.org>
 ## Contributing
 
 Contributions are welcome! Whether it's a bug report, feature suggestion, code improvement, or documentation update — all help is appreciated.
+- Fork the repository and create a feature or bug-fix branch.
+
+- Ensure your changes align with project goals and coding standards.
+
+- Add clear documentation/comments for any new functionality.
+
+- Test your changes to confirm there are no regressions.
+
+- Submit a pull request with a clear description of the update.
 
 ## Security
 
