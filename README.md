@@ -2,12 +2,9 @@
 
 A Model Context Protocol (MCP) server implementation for Trading212 API integration, providing read-only access to Trading212 portfolio data.
 
-## Features
+## Tools
+- GetPortfolio: Fetches the user's portfolio from Trading212. This tool is read-only and does not perform any trades.
 
-- Real-time portfolio data fetching from Trading212
-- MCP-compliant API endpoints
-- Secure authentication using Trading212 API credentials
-- Streamable HTTP transport support
 
 ## Prerequisites
 
